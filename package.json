@@ -1,0 +1,32 @@
+{
+  "name": "concentration-reactnative",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Classical cards matching game written in AngularJS",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taydakov/concentration-reactnative"
+  },
+  "keywords": [
+    "react",
+    "reactnative",
+    "concentration",
+    "concentration-game",
+    "front-end",
+    "app",
+    "single-page",
+    "mobile"
+  ],
+  "author": "Lev Taydakov",
+  "docs": "https://github.com/taydakov/concentration-reactnative/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/taydakov/concentration-reactnative/issues"
+  },
+  "homepage": "https://github.com/taydakov/concentration-reactnative"
+}
